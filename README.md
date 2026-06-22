@@ -135,6 +135,9 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
+## Live Demo Link
+https://customer-churn-prediction-yash1912.streamlit.app/
+
 ---
 
 ## Technologies Used
